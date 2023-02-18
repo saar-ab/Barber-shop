@@ -1,0 +1,9 @@
+------ Receipt ------
+Customer Name: Mohammed
+--- Services ---
+Hair Styling - SAR25
+Beard Trim - SAR20
+Hair Treatment - SAR40
+Location: Home Service
+------ Total ------
+Total Cost: SAR76
